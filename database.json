@@ -1,1 +1,12 @@
 []
+{
+  "id": 1,
+  "categoria": "Test",
+  "nome": "TEST.txt",
+  "descrizione": "File di prova",
+  "sha1": "",
+  "link": "https://raw.githubusercontent.com/MaialinoFluttuante/OpenLibrek/main/uploads/TEST.txt",
+  "peso": "1 KB",
+  "upload": "2026-02-11"
+}
+
